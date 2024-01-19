@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">planets</string>
+    <string-array name="planetss">
+        <item>Saturn</item>
+        <item>Mercury</item>
+        <item>Mars</item>
+        <item>Uranus</item>
+        <item>Venus</item>
+        <item>Jupiter</item>
+        <item>Neptune</item>
+        <item>Sun</item>
+        <item>Venus</item>
+        <item>Moon</item>
+    </string-array>
+</resources>
